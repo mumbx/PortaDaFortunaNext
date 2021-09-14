@@ -1,34 +1,24 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# JOGO DA PORTAL DA FORTUNA
 
-First, run the development server:
+## Sobre
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+O jogo se trata de um projeto simples com react e next, onde você escolhe o número de portal e em qual porta estará o prêmio
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Link https://portadafortuna.netlify.app/
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## TUTORIAL
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+-Primeiro escolha quantas portas terão no jogo e em qual porta estará o prêmio
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+![Menu](https://i.ibb.co/98817SZ/menu.jpg)
 
-## Learn More
+- Para abrir a porta clique na maçaneta, para selecionar uma porta, basta clicar sobre ela, não se esqueça de não clicar na maçaneta se não quiser abrí-la
 
-To learn more about Next.js, take a look at the following resources:
+![Jogo](https://i.ibb.co/Q9Wkx5k/tela1.jpg)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Acima, a porta 2 está amarela pois foi selecionada
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+![final](https://i.ibb.co/dpS0FSp/presente.jpg)
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- Na ultima imagem, a porta 1, setada com o presente na primeira imagem, aparece já aberta, mostrando o prêmio

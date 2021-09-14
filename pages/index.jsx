@@ -31,7 +31,7 @@ export default function Form() {
                   />
            </Card>
             <Card bgColor='#28a085' >
-              <Link href={`/jogo/${qtdePortas}/${comPresente}`} >
+              <Link href={`/jogo/${qtdePortas}/${comPresente}`} passHref >
                 <h2 className={styles.h2}>Iniciar</h2>
               </Link>
             </Card>
